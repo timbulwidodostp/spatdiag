@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p spatdiag Diagnostic tests for spatial dependence in OLS regression Use spatdiag With STATA 18

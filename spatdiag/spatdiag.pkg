@@ -1,5 +1,16 @@
-d 'DEA': Data envelopment analysis
+d 'spatdiag': Diagnostic tests for spatial dependence in OLS regression Use spatdiag With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f spatcorr.ado
+f spatcorr.hlp
+f spatdiag.ado
+f spatdiag.hlp
+f spatgsa.ado
+f spatgsa.hlp
+f spatlsa.ado
+f spatlsa.hlp
+f spatreg.ado
+f spatreg.hlp
+f spatwmat.ado
+f spatwmat.hlp
+f sperr_ll.ado
+f splag_ll.ado

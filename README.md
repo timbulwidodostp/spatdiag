@@ -1,6 +1,8 @@
 # spatdiag
 Diagnostic tests for spatial dependence in OLS regression Use spatdiag With STATA 18
 
+https://www.youtube.com/watch?v=9Wg2q8MKl8o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
